@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
