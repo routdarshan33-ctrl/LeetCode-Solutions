@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -64,13 +65,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
