@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
