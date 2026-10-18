@@ -1,24 +1,12 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        vector <pair<int, int>> v;
-        for(int i = 0; i < n; i ++){
-            v.push_back({nums[i], i});
-        }
-        sort(v.begin(), v.end());
-        int left = 0, right = n - 1;
-        while(left < right){
-            int sum = v[left].first + v[right].first;
-            if(sum == target){
-                return {v[left].second, v[right].second};
-            }
-            else if(sum < target){
-                left ++;
-            }
-            else{
-                right --;
-            }
+        unordered_map<int, int> mp;
+        for(int i = 0; i < nums.size(); i ++){
+            int first = nums[i];
+            int second = target - first;
+            if(mp.find(second) == mp.end()) mp.insert({first, i});
+            else return {mp[second], i};
         }
         return {-1, -1};
     }
