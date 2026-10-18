@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
@@ -111,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
