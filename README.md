@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0258-add-digits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/routdarshan33-ctrl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
